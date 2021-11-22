@@ -21,7 +21,7 @@ export default class MyApp extends App {
   }
 
   state = {
-    theme: 'light',
+    theme: 'dark',
   };
 
   render() {
