@@ -183,7 +183,7 @@ export default class Header extends Component {
                       </div>
                       <div className="info text-center">
                         <p className="name font-weight-bold mb-0">Global Account</p>
-                        </p>
+                  
                       </div>
                     </div>
                     <div className="dropdown-body">
