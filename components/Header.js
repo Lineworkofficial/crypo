@@ -19,7 +19,7 @@ export default class Header extends Component {
           <title>Crypo</title>
           <meta
             name="description"
-            content="Cryptocurrency Exchange Dashboard"
+            content="Cryptocurrency Exchange"
           />
           <link rel="icon" href="/favicon.png" />
         </Head>
