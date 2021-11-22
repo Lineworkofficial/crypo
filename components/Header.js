@@ -182,9 +182,7 @@ export default class Header extends Component {
                         <img src={'img/avatar.svg'} alt="" />
                       </div>
                       <div className="info text-center">
-                        <p className="name font-weight-bold mb-0">Tony Stark</p>
-                        <p className="email text-muted mb-3">
-                          tonystark@gmail.com
+                        <p className="name font-weight-bold mb-0">Global Account</p>
                         </p>
                       </div>
                     </div>
