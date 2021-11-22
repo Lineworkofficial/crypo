@@ -268,7 +268,7 @@ export default function MarketPairs() {
                 <td>
                   <i className="icon ion-md-star"></i> LWC/ETH
                 </td>
-                <td>0.09000</td>
+                <td>0.090002</td>
                 <td className="red">-0.6%</td>
               </tr>
               <tr>
