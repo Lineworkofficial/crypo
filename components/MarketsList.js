@@ -420,7 +420,7 @@ export default function MarketsList() {
                           <td>
                             <img src={'img/icon/1.png'} alt="eth" /> ETH
                           </td>
-                          <td>0,09.00</td>
+                          <td>0.090002</td>
                           <td className="green">+17.47%</td>
                           <td>7444.91</td>
                           <td>7267.06</td>
