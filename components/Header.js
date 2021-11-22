@@ -11,6 +11,7 @@ export default class Header extends Component {
         document.body.classList.toggle('dark');
       });
     }
+   document.body.classList.toggle('dark'); 
   }
   render() {
     return (
