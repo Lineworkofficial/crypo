@@ -10,81 +10,19 @@ export default function NewsDetails() {
             <div className="col-md-12">
               <h2>LWC Pay Fees Feature is Coming Soon</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-                nemo illo natus iure earum recusandae autem quibusdam iste
-                excepturi aut, provident eum maiores ad assumenda doloremque
-                sint explicabo itaque adipisci!
+                Crypo is the DEX platform powered by Linework Corporation !
               </p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Asperiores eveniet dicta perferendis corporis ullam autem cum
-                unde iste. Minus corporis, eaque accusamus commodi et molestiae
-                illo laudantium odit asperiores numquam eos harum, quia
-                quibusdam obcaecati dolorem sapiente voluptates aut dolores
-                cumque modi ullam at repellendus. At, pariatur provident
-                voluptates labore quia nulla qui illo! Veritatis sapiente
-                perferendis nemo deleniti numquam maxime suscipit quas iusto?
-                Distinctio est obcaecati reiciendis consequuntur accusantium
-                nostrum officiis eveniet perferendis quisquam ratione quis,
-                repellat quia numquam. Dolor ea quam veniam facere. Unde
-                explicabo libero, doloremque quisquam illo, iusto ut voluptate
-                cupiditate ipsum dignissimos reiciendis eligendi magnam!
+                As the development of a Token is paired with an exchange platform
+                power, Linework has choosen to develop its own woldwide exchange!
               </p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-                reprehenderit dolorum inventore vero ratione eum, molestiae
-                doloremque et magnam rem perferendis aperiam! Neque tempora
-                ipsum culpa quidem aliquam pariatur incidunt illo rem eius
-                inventore asperiores, reprehenderit libero possimus nihil
-                laborum reiciendis adipisci hic perferendis officia? Adipisci
-                molestiae accusantium est sequi fugit numquam! Modi ipsum sed
-                laboriosam quo rem cupiditate soluta facere! Quod minus
-                voluptatum sint? Eum temporibus asperiores vel perspiciatis
-                deleniti perferendis possimus enim. Numquam eius alias
-                voluptatum fugit nesciunt doloremque accusantium similique
-                obcaecati, error explicabo accusamus ducimus nam nobis. Enim
-                voluptate illum rem qui exercitationem quo veritatis! Veritatis
-                tempora quaerat aperiam, provident temporibus sunt fugit!
-                Officiis tenetur soluta ad totam, aspernatur nostrum et expedita
-                rerum consequuntur. Doloremque accusamus ex, beatae, in totam
-                cupiditate inventore dicta qui soluta consectetur, enim repellat
-                velit. Distinctio modi totam repellat laudantium tenetur
-                impedit, explicabo suscipit rerum eaque tempore nobis fuga
-                numquam at exercitationem praesentium quasi aperiam pariatur,
-                molestiae ipsa voluptatum? Esse veniam aliquam unde quibusdam
-                nulla obcaecati eius eos, illum incidunt eligendi dolores
-                pariatur odit, repudiandae et hic sint! Impedit ullam soluta
-                nobis veritatis quibusdam, quisquam minima repellat suscipit.
-                Beatae, dolores esse ducimus, id officia reprehenderit unde
-                incidunt ex quaerat laudantium sint nam debitis?
+                On the way to guarantee its own world wide growth, Linework is
+                awared to announce that LWC will be introduces about 0,09 ETH 
+                around 392 USD with the major pairing currencies!
               </p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-                reprehenderit dolorum inventore vero ratione eum, molestiae
-                doloremque et magnam rem perferendis aperiam! Neque tempora
-                ipsum culpa quidem aliquam pariatur incidunt illo rem eius
-                inventore asperiores, reprehenderit libero possimus nihil
-                laborum reiciendis adipisci hic perferendis officia? Adipisci
-                molestiae accusantium est sequi fugit numquam! Modi ipsum sed
-                laboriosam quo rem cupiditate soluta facere! Quod minus
-                voluptatum sint? Eum temporibus asperiores vel perspiciatis
-                deleniti perferendis possimus enim. Numquam eius alias
-                voluptatum fugit nesciunt doloremque accusantium similique
-                obcaecati, error explicabo accusamus ducimus nam nobis. Enim
-                voluptate illum rem qui exercitationem quo veritatis! Veritatis
-                tempora quaerat aperiam, provident temporibus sunt fugit!
-                Officiis tenetur soluta ad totam, aspernatur nostrum et expedita
-                rerum consequuntur. Doloremque accusamus ex, beatae, in totam
-                cupiditate inventore dicta qui soluta consectetur, enim repellat
-                velit. Distinctio modi totam repellat laudantium tenetur
-                impedit, explicabo suscipit rerum eaque tempore nobis fuga
-                numquam at exercitationem praesentium quasi aperiam pariatur,
-                molestiae ipsa voluptatum? Esse veniam aliquam unde quibusdam
-                nulla obcaecati eius eos, illum incidunt eligendi dolores
-                pariatur odit, repudiandae et hic sint! Impedit ullam soluta
-                nobis veritatis quibusdam, quisquam minima repellat suscipit.
-                Beatae, dolores esse ducimus, id officia reprehenderit unde
-                incidunt ex quaerat laudantium sint nam debitis?
+                Linework will update to you on its social networks!
               </p>
             </div>
           </div>
